@@ -1,0 +1,1 @@
+<button class="flex gap-2 bg-white text-[#9F8368] py-2 px-4 rounded text-sm hover:font-bold hover:shadow-lg">Panier<img src="/logo/cart.svg" alt="cart logo" class="w-6 h-6"/></button>
